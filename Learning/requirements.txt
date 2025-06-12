@@ -1,0 +1,36 @@
+# Core
+langchain
+langchain-community
+openai
+python-dotenv
+tqdm
+
+# Embeddings
+sentence-transformers
+transformers
+
+# Vector Stores
+faiss-cpu
+chromadb
+
+# Document Loaders
+pymupdf  # for PDF loading
+beautifulsoup4
+html2text
+unstructured
+requests
+
+# Notebook Environment
+ipykernel
+jupyterlab
+notebook
+
+# Optional - If you want to use Hugging Face models
+huggingface_hub
+
+# Optional - If using local LLMs later
+accelerate
+torch
+
+# For parsing DOCX and other formats (optional)
+python-docx
